@@ -1,4 +1,4 @@
-# Proyecto Git_SernaJhonnatan
+# Proyecto Git_SernaJhonathan
 
 Este repositorio contiene la configuración inicial de un proyecto académico en Cibertec.  
 Incluye el uso de *Maven* y *JPA* para la gestión de dependencias y persistencia, además de un archivo .gitignore que mantiene el repositorio limpio al excluir carpetas y archivos innecesarios.
@@ -12,4 +12,4 @@ Incluye el uso de *Maven* y *JPA* para la gestión de dependencias y persistenci
 Aplicar buenas prácticas de control de versiones con Git y GitHub, trabajando con ramas, commits y merges para simular un flujo de trabajo colaborativo.
 
 ## Autor
-Jhonnatan Serna
+Jhonathan Serna
