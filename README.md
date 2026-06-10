@@ -1,4 +1,4 @@
-# Git_SernaJhonathan – Rama feature_jhonathan_serna
+# Git_SernaJhonathan – Rama feature_jhonathan_serna_m
 
 Este archivo README.md corresponde a la rama *feature_jhonathan_serna* del repositorio.  
 En esta rama se realizan pruebas, modificaciones y nuevas funcionalidades antes de integrarlas en la rama principal (*master*).
